@@ -1,0 +1,15 @@
+[submodule "pack/vendor/start/vim-clang-format"]
+	path = pack/vendor/start/vim-clang-format
+	url = https://github.com/rhysd/vim-clang-format
+[submodule "vendor/start/nerdtree"]
+	path = vendor/start/nerdtree
+	url = https://github.com/preservim/nerdtree.git
+[submodule "pack/vendor/start/nerdtree"]
+	path = pack/vendor/start/nerdtree
+	url = https://github.com/preservim/nerdtree.git
+[submodule "pack/vendor/start/ctrlp.vim"]
+	path = pack/vendor/start/ctrlp.vim
+	url = https://github.com/kien/ctrlp.vim.git
+[submodule "pack/vendor/start/youcompleteme"]
+	path = pack/vendor/start/youcompleteme
+	url = https://github.com/ycm-core/YouCompleteMe
