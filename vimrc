@@ -1,5 +1,8 @@
 set encoding=utf-8
 
+packadd! dracula
+colorscheme dracula
+
 filetype on
 filetype plugin indent on
 set hidden
