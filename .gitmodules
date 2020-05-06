@@ -16,3 +16,6 @@
 [submodule "pack/vendor/start/dracula"]
 	path = pack/vendor/start/dracula
 	url = https://github.com/dracula/vim.git
+[submodule "pack/vendor/start/vim-cpp-enhanced-highlight"]
+	path = pack/vendor/start/vim-cpp-enhanced-highlight
+	url = https://github.com/octol/vim-cpp-enhanced-highlight
